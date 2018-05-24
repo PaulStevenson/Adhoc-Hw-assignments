@@ -3,7 +3,6 @@ Polymorphism
 poly - many forms / moprh - to change - In OO, it refers to 'many forms'.
 
 2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
-treat an instance of a class as if it is also another class/type at the same time.
 Polymorphism allows for an  object to be of different types at the same time.
 
 Super Class Shape - Child Class: Square, Circle
@@ -15,7 +14,7 @@ Interfaces and Inheritance.
 Parent can be used as many times as needed, but a child may only inherit from on class.
 
 5. Give an example of when you could use polymorphism.
-Human behaviours (interface) to Customer Class  and Salesperson Class i.e Method to shake hands. Relies 
+Human behaviours (interface) to Customer Class  and Salesperson Class i.e Method to shake hands. Relies
 
 
 Composition
