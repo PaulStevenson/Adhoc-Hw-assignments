@@ -12,6 +12,7 @@ Interfaces and Inheritance.
 
 4. How many 'forms' can an object take when using polymorphism?
 Parent can be used as many times as needed, but a child may only inherit from on class.
+Fish and Honey = iEat for a bear class.
 
 5. Give an example of when you could use polymorphism.
 Human behaviours (interface) to Customer Class  and Salesperson Class i.e Method to shake hands. Relies
