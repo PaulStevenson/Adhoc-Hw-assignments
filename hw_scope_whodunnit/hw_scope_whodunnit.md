@@ -27,7 +27,7 @@ const declareMurderer = function() {
 const verdict = declareMurderer();
 console.log(verdict);
 ```
-<!-- Miss Scarlet is the murder. -->
+Miss Scarlet is the murder.
 
 #### Episode 2
 
