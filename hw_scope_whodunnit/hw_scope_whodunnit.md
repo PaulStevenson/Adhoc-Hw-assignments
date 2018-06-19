@@ -46,7 +46,7 @@ changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
 ```
-<!-- Prof Plum CONST murderer! -->
+Prof Plum CONST murderer!
 
 #### Episode 3
 
@@ -64,7 +64,7 @@ console.log('First Verdict: ', firstVerdict);
 const secondVerdict = `The murderer is ${murderer}.`;
 console.log('Second Verdict: ', secondVerdict);
 ```
-<!-- Mrs Peacock is first. Don't understand how Prof Plum is the secondVerdict -->
+Mrs Peacock is first.  Prof Plum is the secondVerdict
 
 #### Episode 4
 
@@ -82,7 +82,7 @@ const suspects = declareAllSuspects();
 console.log(suspects);
 console.log(`Suspect three is ${suspectThree}.`);
 ```
-<!-- suspectThree becomes Col Mustard. Don't understand second log... -->
+suspectThree becomes Col Mustard. Don't understand second log...
 
 #### Episode 5
 
@@ -105,7 +105,7 @@ changeWeapon('Revolver');
 const verdict = declareWeapon();
 console.log(verdict);
 ```
-<!-- The revolver is the weapon -->
+The revolver is the weapon
 
 #### Episode 6
 
@@ -130,7 +130,7 @@ changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
 ```
-<!-- MRs White due to being in the same black as Mr Green? -->
+Mrs White due to being in the same block as Mr Green?
 
 #### Episode 7
 
@@ -161,8 +161,7 @@ changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
 ```
-<!-- Don't understand what unexpectedOutcome() and plotTwist() are doing... -->
-
+Mr Green due to scope?
 #### Episode 8
 
 ```js
@@ -218,6 +217,8 @@ const declareMurderer = function() {
 const verdict = declareMurderer();
 console.log(verdict);
 ```
+
+Prof Plum, if statement is it's own block...
 
 ### Extensions
 
